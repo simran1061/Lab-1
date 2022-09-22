@@ -1,4 +1,9 @@
-
+// Write a program to accept choice from user and perform the operation:
+1: factorial
+2:sum of digit
+3:Armstrong number or not
+4:fibonacci series
+5:Prime no or Not
 import java.util.*;
 
 public class operation {
