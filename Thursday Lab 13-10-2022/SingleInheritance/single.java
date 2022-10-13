@@ -1,4 +1,6 @@
-import java.util.*;
+/* WAP to create a class which contain the method Palindrom .the second class will use the proerty of first class and display the output."
+*/ 
+import java.util.*; 
 
 public class single 
 {
